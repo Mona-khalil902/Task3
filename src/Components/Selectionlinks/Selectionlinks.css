@@ -1,0 +1,10 @@
+.selectionlinks{
+    width: 100%;
+    height: 45px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    border-radius: 10px;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter-SemiBold';
+    font-weight: normal; 
+}

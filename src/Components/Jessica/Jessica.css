@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url(../../assets/fonts/static/Inter-Regular.ttf);
+    font-weight: normal;
+}
+#jessicainformation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter-Regular';
+    font-weight: normal; 
+    font-size: 14px;
+    row-gap: 10px;
+}
+#photosize{
+    width: 90px;
+    border-radius: 50%;
+}
+h1{
+    font-family: 'Inter-Regular';
+    font-weight: normal; 
+    margin: 0;
+}
+#jessicainformation > label{
+    color: hsl(75, 94%, 57%);
+}
+p{
+    margin-bottom: 0;
+}
